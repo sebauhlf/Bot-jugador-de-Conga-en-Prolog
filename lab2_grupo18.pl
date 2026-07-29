@@ -1,9 +1,5 @@
-%LABORATORIO 2 Grupo 18
-%INTEGRANTES:
-% Sebastian Uhlfelder, 5.510.433-2
-% Facundo Lopez, 5.177.215-1
-% Agustin Kuchura, 5.175.815-9
-% Joaquín Brito, 5.393.701-4
+%Archivo principal. Se incluyen estrategias Random, Greedy (intermedia) y Pro (Avanzada) para jugar al GinRummy (Conga).
+
 
 %Caso Set:
 is_meld([c(V,P1), c(V,P2), c(V,P3)]) :-
